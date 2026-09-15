@@ -6,6 +6,16 @@ export default {
       'La información turística es una de las habilidades más importantes a desarrollar para el servicio de recepción hotelera. Los visitantes de los hoteles identifican a los recepcionistas del hotel como el personal capacitado y conocedor sobre cualquier información acerca del accionar de la cadena cultural y turística y/o de la actividad local. Por este motivo, esperan calidad y veracidad en la información que reciben y llevar a feliz término su actividad de ocio o trabajo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -260,61 +270,60 @@ export default {
   referencias: [
     {
       referencia:
-        'Boullón, R. C. (2006). <em>Planificación del espacio turístico</em>. Trillas.',
+        'Boullón, R. C. (2006). Planificación del espacio turístico. Trillas.',
       link:
         'https://www.entornoturistico.com/wp-content/uploads/2017/02/Planificaci%C3%B3n-del-espacio-tur%C3%ADstico-de-Roberto-C.-Boullon-PDF.pdf ',
     },
     {
       referencia:
-        'Cobo, C. (2013). Orientación geográfica: la geoperspectiva integral. <em>Geograficando</em>, <em>9</em>(9).',
+        'Cobo, C. (2013). Orientación geográfica: la geoperspectiva integral. Geograficando, <em>9</em>(9).',
       link:
         'https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.6061/pr.6061.pdf ',
     },
     {
       referencia:
-        'Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2025). <em>Sistema de cuentas nacionales 2025</em>. Naciones Unidas. ',
+        'Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2025). Sistema de cuentas nacionales 2025. Naciones Unidas. ',
       link: 'https://unstats.un.org/unsd/nationalaccount/sna2025.asp',
     },
     {
       referencia:
-        'Coque, M. y Arroyo, E. (2017). <em>Información y atención al visitante</em>. Paraninfo.',
+        'Coque, M. y Arroyo, E. (2017). Información y atención al visitante. Paraninfo.',
+      link: '',
+    },
+    {
+      referencia: 'FONTUR. (s. f.). Glosario. Fondo Nacional de Turismo.',
       link: '',
     },
     {
       referencia:
-        'FONTUR. (s. f.). Glosario. <em>Fondo Nacional de Turismo</em>.',
-      link: '',
-    },
-    {
-      referencia:
-        'García Silberman, A. (1970). Clasificación de los recursos turísticos. <em>Investigaciones Geográficas</em>, <em>1</em>(3).',
+        'García Silberman, A. (1970). Clasificación de los recursos turísticos. Investigaciones Geográficas, 1 (3).',
       link:
         'https://www.investigacionesgeograficas.unam.mx/index.php/rig/article/download/58846/51834/169721',
     },
     {
       referencia:
-        'Luna Pérez, N. del C. (s. f.). <em>Comunicación asertiva con turistas</em> [Material de formación]. Servicio Nacional de Aprendizaje (SENA). Formación en Ambientes Virtuales de Aprendizaje (FAVA).',
+        'Luna Pérez, N. del C. (s. f.). Comunicación asertiva con turistas [Material de formación]. Servicio Nacional de Aprendizaje (SENA). Formación en Ambientes Virtuales de Aprendizaje (FAVA).',
       link: '',
     },
     {
       referencia:
-        'Martín, B. (2013, 24 de octubre). Cadena de valor en turismo [Entrada de blog]. <em>Turismo y sostenibilidad</em>.',
+        'Martín, B. (2013, 24 de octubre). Cadena de valor en turismo [Entrada de blog]. Turismo y sostenibilidad.',
       link:
         'https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/ ',
     },
     {
       referencia:
-        'ONU Turismo. (s. f.). <em>Glosario de términos de turismo</em>. ONU Turismo. (anteriormente Organización Mundial del Turismo, OMT)',
+        'ONU Turismo. (s. f.). Glosario de términos de turismo<. ON Turismo. (anteriormente Organización Mundial del Turismo, OMT)',
       link: '',
     },
     {
       referencia:
-        'Ruano, C. (2012). <em>Promoción y comercialización de productos y servicios turísticos locales</em>. Alianza Editorial.',
+        'Ruano, C. (2012). Promoción y comercialización de productos y servicios turísticos locales. Alianza Editorial.',
       link: '',
     },
     {
       referencia:
-        'SENA. (s. f.). <em>El turismo rural en Colombia</em> [Video]. YouTube.',
+        'SENA. (s. f.). El turismo rural en Colombia [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=YIpnqZRTYZU',
     },
   ],
