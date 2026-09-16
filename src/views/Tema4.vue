@@ -51,9 +51,8 @@
                 p.mb-0.text-center.text-lg-start #[strong Anexo 3]. Orientación geográfica: enfoque de Cobo Arízaga (2013).
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo3_CF08_Orientacion_Geografica.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
-
+                  span Ir al recurso
+                  
     Separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

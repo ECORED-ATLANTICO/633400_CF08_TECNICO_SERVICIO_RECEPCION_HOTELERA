@@ -155,8 +155,8 @@
                 p.mb-0.text-center.text-lg-start Para conocer de cerca cómo Colombia aprovecha sus atractivos naturales en el desarrollo turístico, se recomienda consultar el siguiente recurso audiovisual: El turismo rural en Colombia. 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(href="https://www.youtube.com/watch?v=YIpnqZRTYZU" target="_blank")
-                  span Abrir video
-                  i.fas.fa-file-video
+                  span Ir al recurso
+                 
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -187,8 +187,7 @@
                 p.mb-0.text-center.text-lg-start #[strong Anexo 1]. Sistema de Cuentas Nacionales 2008, definición de bienes y su aplicación al sector turístico.
               .col-lg-3.col-md-4.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo1_CF08__Sistema_Cuentas_Nacionales_2008-2.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span Ir al recurso
 
     .p-4.rounded-4.bg-secundario-s5.z-2.mb-5
       p.mb-0 Por otra parte, como recursos turísticos, se denotan aquellos elementos que podrían llegar a ser un atractivo turístico pero que aún no cuentan con la infraestructura ni los servicios necesarios para atender visitantes. Es decir, si se analiza en términos económicos, serían los bienes o activos turísticos que están en proceso de desarrollo o en espera de ser incorporados a la oferta del destino.
@@ -204,8 +203,7 @@
                 p.mb-0.text-center.text-lg-start #[strong Anexo 2]. Clasificación de los recursos turísticos según Ana García Silberman.
               .col-lg-3.col-md-4.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo2_CF08_Clasificacion_Recursos_Turisticos.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span Ir al recurso
 
     .p-4.rounded-4.bg-secundario-s5.z-2.mb-5
       p.mb-0.text-center La siguiente tabla presenta un resumen del PDF estudiado anteriormente.

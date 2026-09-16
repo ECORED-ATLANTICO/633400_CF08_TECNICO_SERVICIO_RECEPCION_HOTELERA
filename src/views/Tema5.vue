@@ -26,8 +26,8 @@
                 p.mb-0.text-center.text-lg-start #[strong Anexo 4]. Comunicación asertiva con turistas (SENA, 2021).
               .col-lg-3.col-md-4.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo4_CF08_Comunicacion_asertiva_con_turistas.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span Ir al recurso
+                  
 
     .p-4.rounded-4.bg-secundario-s10.mb-4
       p.mb-0 Sobre la importancia de la comunicación en la atención a visitantes, Blanco Amaya (2011) señala: 
