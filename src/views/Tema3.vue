@@ -21,7 +21,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/2.png", alt="")
       .col-lg-8
-        p Aquellos servicios públicos, dependientes por regla general de organismos públicos o instituciones, que tienen como misión informar, facilitar y orientar al turista durante su estancia vacacional o viajes, facilitando gratuitamente información. (ONU Turismo, s. f.)
+        p Aquellos servicios públicos, dependientes por regla general de organismos públicos o instituciones, que tienen como misión informar, facilitar y orientar al turista durante su estancia vacacional o viajes, facilitando gratuitamente información. (ONU Turismo, s. f.).
         .p-4.bg-acento-contenido-a5.rounded-4
           p.mb-0 Es conveniente diferenciar la información turística de otras actividades relacionadas, como la promoción y la comunicación turística. En ese sentido, la característica más relevante que debe tener la información turística —y que constituye su principal diferenciador frente a las otras actividades mencionadas— es ser imparcial.
 
@@ -224,7 +224,6 @@
       span Principios de comunicación aplicados a la información turística
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2026). 
         thead
           tr(style="background-color: #F0F6F9")
             th Principio de comunicación

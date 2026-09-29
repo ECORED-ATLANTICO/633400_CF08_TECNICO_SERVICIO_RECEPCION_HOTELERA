@@ -20,11 +20,11 @@
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-lg-8.mb-4.mb-lg-0
         p Esta definición evidencia cada uno de los componentes que se articulan alrededor del turismo, las actividades y los principales protagonistas en su desarrollo.
-        p Existe un buen número de definiciones respecto al turismo y sus componentes, las cuales han venido evolucionando a través del tiempo. Es de suma importancia manejar un lenguaje técnico y planificado que permita transmitir la información de la forma como la espera el cliente. Así lo manifiesta Roberto Boullón en su obra #[em Planificación del espacio turístico]:
+        p Existe un buen número de definiciones respecto al turismo y sus componentes, las cuales han venido evolucionando a través del tiempo. Es de suma importancia manejar un lenguaje técnico y planificado que permita transmitir la información de la forma como la espera el cliente. Así lo manifiesta Roberto Boullón en su obra Planificación del espacio turístico:
         .bloque-texto-e.bg-acento-contenido-a5.py-2.px-4.rounded-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p La necesidad de un lenguaje técnico unificado es aún mucho mayor en los sistemas de capacitación y en la enseñanza escolarizada que operan en el sector, que para otros segmentos participantes en su función comercial
+            p La necesidad de un lenguaje técnico unificado es aún mucho mayor en los sistemas de capacitación y en la enseñanza escolarizada que operan en el sector, que para otros segmentos participantes en su función comercial.
             i.fas.fa-quote-right
           .row.align-items-end
             .col
@@ -353,7 +353,6 @@
           span Cadena de valor del turismo
         img.mb-2.d-sm-none(data-aos="fade-down", src="@/assets/curso/tema1/37-mob.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-down", src="@/assets/curso/tema1/37.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
-        figcaption Nota. SENA, (2026).
 
 
 

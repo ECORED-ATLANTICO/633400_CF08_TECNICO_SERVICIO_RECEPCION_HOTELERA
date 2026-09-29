@@ -213,7 +213,6 @@
       span Clasificación de los recursos turísticos
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2026). 
         thead
           tr(style="background-color: #F0F6F9")
             th Categoría
@@ -222,35 +221,35 @@
         tbody
           tr
             td(rowspan="7") Naturales
-            td(colspan="2") #[strong Geomorfológicos - Litorales]
+            td(colspan="2") Geomorfológicos - Litorales
             td(colspan="2") Rocas e islas, playas, acantilados, desembocaduras de ríos.
           tr
-            td(colspan="2") #[strong Geomorfológicos - Lagunas y depósitos de agua]
+            td(colspan="2") Geomorfológicos - Lagunas y depósitos de agua
             td(colspan="2") Lagos, lagunas.
           tr
-            td(colspan="2") #[strong Geomorfológicos - Corrientes de agua]
+            td(colspan="2") Geomorfológicos - Corrientes de agua
             td(colspan="2") Superficiales: cañones, cascadas. Subterráneas: manantiales, grutas.
           tr
-            td(colspan="2") #[strong Geomorfológicos - Volcanismo]
+            td(colspan="2") Geomorfológicos - Volcanismo
             td(colspan="2") Cráteres, aguas termales y minerales, géiseres.
           tr
-            td(colspan="2") #[strong Geomorfológicos - Relieves]
+            td(colspan="2") Geomorfológicos - Relieves
             td(colspan="2") Montañas, barrancas y cañones, planicies, dunas.
           tr
-            td(colspan="2") #[strong Biogeográficos - Agrupaciones vegetales]
+            td(colspan="2") Biogeográficos - Agrupaciones vegetales
             td(colspan="2") Selvas, bosques.
           tr
-            td(colspan="2") #[strong Biogeográficos - Agrupaciones animales]
+            td(colspan="2") Biogeográficos - Agrupaciones animales
             td(colspan="2") Fauna silvestre, zonas de caza.
           tr
             td(rowspan="3") Culturales
-            td(colspan="2") #[strong Históricos]
+            td(colspan="2") strong Históricos
             td(colspan="2") Zonas arqueológicas, arquitectura antigua, lugares históricos, poblados típicos, folklore, fiestas tradicionales.
           tr
-            td(colspan="2") #[strong Contemporáneos (comerciales)]
+            td(colspan="2") Contemporáneos (comerciales)
             td(colspan="2") Centros de convenciones, instituciones de enseñanza, bibliotecas, museos y pinturas murales, obras monumentales, invernaderos, zoológicos.
           tr
-            td(colspan="2") #[strong Contemporáneos (no comerciales)]
+            td(colspan="2") Contemporáneos (no comerciales)
             td(colspan="2") Parques de diversiones, balnearios, espectáculos culturales, espectáculos deportivos, campos deportivos, exposiciones nacionales e internacionales, mercados de artesanías, comercios, centros de salud, ferias y carnavales, celebraciones religiosas, casinos, concursos y competencias.
 
     Separador
