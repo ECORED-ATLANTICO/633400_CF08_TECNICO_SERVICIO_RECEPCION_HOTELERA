@@ -412,7 +412,7 @@ export default {
         },
         {
           nombre: 'Zuleidy Maria Ruiz Torres',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
