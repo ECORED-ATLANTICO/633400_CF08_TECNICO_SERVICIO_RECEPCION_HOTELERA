@@ -66,7 +66,7 @@
           p.mb-0 Recomendaciones de seguridad.
 
     .bg-secundario-s10.p-4.rounded-4.mb-4
-      p.mb-0.text-center Pódcast: para reforzar los conceptos sobre fuentes de información turística y comunicación asertiva trabajados en este componente, se recomienda consultar el siguiente recurso de audio: ¿Cómo saber qué información turística es confiable y cómo transmitirla bien?.
+      p.mb-0.text-center Pódcast: para reforzar los conceptos sobre fuentes de información turística y comunicación asertiva trabajados en este componente, se recomienda consultar el siguiente recurso de audio: ¿Cómo saber qué información turística es confiable y cómo transmitirla bien?
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5

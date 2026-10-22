@@ -270,6 +270,12 @@ export default {
   referencias: [
     {
       referencia:
+        'Blanco Amaya, J. A. (2011, 31 de marzo). La comunicación: un requisito para el guía de turismo. Ximejhon-guianza.',
+      link:
+        'https://ximejhon-guianza.blogia.com/2011/040101-la-comunicacion-un-requisito-para-el-guia-de-turismo.php',
+    },
+    {
+      referencia:
         'Boullón, R. C. (2006). Planificación del espacio turístico. Trillas.',
       link:
         'https://www.entornoturistico.com/wp-content/uploads/2017/02/Planificaci%C3%B3n-del-espacio-tur%C3%ADstico-de-Roberto-C.-Boullon-PDF.pdf ',
@@ -282,8 +288,9 @@ export default {
     },
     {
       referencia:
-        'Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2025). Sistema de cuentas nacionales 2025. Naciones Unidas. ',
-      link: 'https://unstats.un.org/unsd/nationalaccount/sna2025.asp',
+        'Comisión Europea, Fondo Monetario Internacional, Organización para la Cooperación y el Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2008). Sistema de cuentas nacionales 2008. Naciones Unidas.',
+      link:
+        'https://unstats.un.org/unsd/nationalaccount/docs/sna2008spanish.pdf',
     },
     {
       referencia:
@@ -291,8 +298,16 @@ export default {
       link: '',
     },
     {
-      referencia: 'FONTUR. (s. f.). Glosario. Fondo Nacional de Turismo.',
-      link: '',
+      referencia:
+        'FONTUR. (s. f.). Glosario. Fondo Nacional de Turismo. García Silberman, A. (1970). Clasificación de los recursos turísticos. Investigaciones Geográficas, (3), 39-61.',
+      link:
+        'https://www.investigacionesgeograficas.unam.mx/index.php/rig/article/download/58846/51834/169721',
+    },
+    {
+      referencia:
+        'Instituto Distrital de Turismo, & Asociación Colombiana de Agencias de Viajes y Turismo [ANATO]. (2007). Investigación sobre servicios y planta turística.',
+      link:
+        'https://www.academia.edu/20955177/INSTITUTO_DISTRITAL_DE_TURISMO_ANATO_Asociaci%C3%B3n_Colombiana_de_Agencias_de_Viaje_y_Turismo',
     },
     {
       referencia:
@@ -400,7 +415,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Leyson Fabian Castaño Perez',
+          nombre: 'Leyson Fabian Castaño Pérez',
           cargo: 'Soporte organizacional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -411,7 +426,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Zuleidy Maria Ruiz Torres',
+          nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Animadora y productora audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -445,7 +460,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Andres Mauricio Santaella Ochoa',
+          nombre: 'Andrés Mauricio Santaella Ochoa',
           cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -473,17 +488,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Luis Gabriel Urueta Álvarez',
           cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel Ospino Fritz',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

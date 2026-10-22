@@ -478,7 +478,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia dominio del concepto relacionado con el sistema turístico, los atractivos y la información turía, elementos fundamentales para brindar orientación adecuada al visitante.',
+            'Se evidencia dominio del concepto relacionado con el sistema turístico, los atractivos y la información turística, elementos fundamentales para brindar orientación adecuada al visitante.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

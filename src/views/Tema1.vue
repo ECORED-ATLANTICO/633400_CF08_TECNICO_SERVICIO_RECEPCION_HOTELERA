@@ -193,7 +193,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4 Servucción
-              p.mb-0 Significa el proceso de elaboración de un servicio, la organización de los elementos físicos y humanos en la relación cliente–empresas necesaria para la prestación de un servicio, cuyas características esenciales y niveles de calidad han sido determinadas. (Ruano, 2012).
+              p.mb-0 Significa el proceso de elaboración de un servicio, la organización de los elementos físicos y humanos en la relación cliente–empresas necesaria para la prestación de un servicio, cuyas características esenciales y niveles de calidad han sido determinadas (Ruano, 2012).
               
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -351,8 +351,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Cadena de valor del turismo
-        img.mb-2.d-sm-none(data-aos="fade-down", src="@/assets/curso/tema1/37-mob.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-down", src="@/assets/curso/tema1/37.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
+        img.mb-2.d-sm-none(data-aos="fade-down", src="@/assets/curso/tema1/37-mob.svg", alt="La figura 1 ilustra la cadena de valor del turismo, organizada en seis etapas consecutivas: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa representa un servicio o momento que contribuye a la experiencia integral del turista.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-down", src="@/assets/curso/tema1/37.svg", alt="La figura 1 ilustra la cadena de valor del turismo, organizada en seis etapas consecutivas: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa representa un servicio o momento que contribuye a la experiencia integral del turista.")
 
 
 
